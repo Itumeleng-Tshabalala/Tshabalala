@@ -1,0 +1,57 @@
+.headers{
+    margin-left: 20%;
+    font-size: 20px; 
+}
+
+.names{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+ul, ol{
+    margin-left: 45%;
+}
+
+.contact{
+    text-align: center;
+}
+
+.description{
+    margin-left: 30%;
+} 
+
+.footer{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+.unordered {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+.list {
+    float: right;
+}
+
+.list-right {
+    float: right;
+}
+
+.list a {
+    display: block;
+    color: darkslategrey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.list a:hover{
+    color: lightblue;
+}
